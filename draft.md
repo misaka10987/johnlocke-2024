@@ -1,6 +1,6 @@
 # Draft
 
-> Subject: Why do civilizations collapse? Is our civilization in danger?
+> Why do civilizations collapse? Is our civilization in danger?
 
 It is common knowledge that a civilization collapse for multivariate reasons, but such reasons can be unified under the perspective of the theory of meme while involving biological methodologies in historical study.
 
@@ -24,10 +24,14 @@ Also, a civilization's ecological niche can be taken by another one, sometimes a
 
 It may be doubted that a civilization will be destroyed by an external might, but observation tells that military conquest alone can never collapse a civilization. A well-known counter-example is the Mongolian Empire: despite epic victories, none of the vanquished has disappeared in history, since the Mongolians could neither make any changes to the geographical environment those civilizations lived in, nor outweigh and replace them with their nomadic-styled culture which is far less energy-efficient in places other than the grasslands of inner Asia. As long as the ecological niche remains, a civilization will not collapse and eventually expel the invaders. 
 
-In conclusion, the major reason a civilization collapses is the loss of its ecological niche, resulted by either the disappearance of the original niche or a stronger candidate's replacement.
+In conclusion, the major reason why a civilization collapses is the loss of its ecological niche, resulted by either the disappearance of the original niche or a stronger candidate's replacement.
 
 ## In danger
 
-Based on the view above, our civilization --- the industrialized and globalized modern civilization --- is in a sense in danger. The ecological niche can not eternally exist and, considering the recent blooming technologies (e.g. AI), may shortly be eradicated by a coming technological revolution, not mentioning other threats like environment issues or extremist ideology. The current social formation is forged by the industrial revolution, and such formation is evidently fragile facing impact brought by new technologies. Given the history, we can not ignorantly believe that our civilization will not encounter danger.
+Based on the view above, our civilization --- the industrialized and globalized modern civilization --- is in a sense in danger. The ecological niche can not eternally exist, and, considering the recent blooming technologies (e.g. AI), may shortly be eradicated by a coming technological revolution, not mentioning other threats like environment issues or extremist ideology. The current social formation is forged by the industrial revolution, and such formation is evidently fragile facing impact brought by new technologies. Given the history, we can not ignorantly believe that our civilization will not encounter danger.
 
 ## Evolution
+
+However, like living species, a civilization not only dies out, but also evolves. This happens as a civilization reforms under an external selective pressure, such as environmental change or social development, usually accompanied by the collapse of the old-day civilization and the birth of the new. And the same in biological evolution happens for a civilization. Science tells that the descendant grouping necessarily contain some of the ancestor's genetic segments, while it can be learnt from history that collapsed civilizations usually will not disappear into complete void, but leave some of its adaptable characters instead, which are usually assimilated by followers. For example, the collapse of Rome not only had not ruined all its achievements, but also spread them to those previously-considered barbarian territories. Today's Europeans can not deny the fact that they are successors of the Roman civilization and part of it is still alive and influencing the modern society.
+
+This provides a more optimistic perspective towards the collapse of civilizations, since most of them do not actually extinct, but somehow continue to exist through a fairly long time period. It is the same back to our civilization. Even though we have to admit that social development may send it to grave, we can still be proud of the fact that some of our civilization's achievements will be inherited by next generations and contribute to humanity.
